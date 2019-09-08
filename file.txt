@@ -1,3 +1,5 @@
 new file
 
 pull
+
+fetch
